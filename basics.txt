@@ -5,3 +5,4 @@ Basics in PyTorch Library
 Git and GitHub
 Deep Learning Understanding
 Computerb Vision
+Linux Commands
